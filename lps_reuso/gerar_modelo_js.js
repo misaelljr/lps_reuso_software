@@ -30,7 +30,7 @@ btnGerarCodigo.onclick = function(){
 	localStorage.removeItem("modelo");
 	localStorage.setItem("modelo", modelo);
 	
-	window.open('gerar_codigo.html', '_self');
+	window.open('code.html', '_self');
 
 	return false
 
