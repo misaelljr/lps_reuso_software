@@ -47,7 +47,7 @@ botao.onclick = function(){
 	localStorage.setItem("id5", id5);
 	localStorage.setItem("id6", id6);
 
-	window.open('gerar_modelo.html', '_self');
+	window.open('model.html', '_self');
 
 	return false
 
